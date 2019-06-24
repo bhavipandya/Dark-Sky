@@ -1,0 +1,53 @@
+{
+  "uid" : "42f69b6893839431",
+  "name" : "Then I verify current temp is not greater or less then temps from daily timeline",
+  "title" : "Then I verify current temp is not greater or less then temps from daily timeline",
+  "time" : {
+    "start" : 1560915323302,
+    "stop" : 1560915323302,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "120b13dac8bc2f98",
+    "name" : "Verify Current Temperature should not be greater or less than the Temperature from Daily Timeline",
+    "title" : "Verify Current Temperature should not be greater or less than the Temperature from Daily Timeline"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Bhavis-MBP.home"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "feature",
+    "value" : "darkSky feature"
+  }, {
+    "name" : "suite-name",
+    "value" : "Verify Current Temperature should not be greater or less than the Temperature from Daily Timeline"
+  }, {
+    "name" : "story",
+    "value" : "Verify Current Temperature should not be greater or less than the Temperature from Daily Timeline"
+  }, {
+    "name" : "thread",
+    "value" : "32873@Bhavis-MBP.home.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "suite-title",
+    "value" : "Verify Current Temperature should not be greater or less than the Temperature from Daily Timeline"
+  } ],
+  "parameters" : [ ]
+}

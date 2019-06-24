@@ -1,0 +1,36 @@
+{
+  "testCases" : [ {
+    "uid" : "b2de844a4d1314f2",
+    "name" : "Given I am on DarkSky Home Page",
+    "title" : "Given I am on DarkSky Home Page",
+    "time" : {
+      "start" : 1560915323059,
+      "stop" : 1560915323062,
+      "duration" : 3
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "820d5bae3659b7dc",
+    "name" : "Given I am on DarkSky Home Page",
+    "title" : "Given I am on DarkSky Home Page",
+    "time" : {
+      "start" : 1560915323220,
+      "stop" : 1560915323221,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "42f69b6893839431",
+    "name" : "Then I verify current temp is not greater or less then temps from daily timeline",
+    "title" : "Then I verify current temp is not greater or less then temps from daily timeline",
+    "time" : {
+      "start" : 1560915323302,
+      "stop" : 1560915323302,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}
